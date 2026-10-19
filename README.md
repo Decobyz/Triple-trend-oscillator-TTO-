@@ -1,6 +1,8 @@
+
 # Triple-trend-oscillator-TTO-
 A cTrader cBot for XAUUSD on the M15 timeframe, with out-of-sample backtesting, performance analysis, and quantitative trading research documentation.
 # TTO Gold Swing — XAUUSD Algorithmic Trading Bot
+<img width="816" height="445" alt="wone" src="https://github.com/user-attachments/assets/4775a3f3-f916-4e47-bc62-39958b3656d5" />
 
 ## Overview
 
@@ -25,6 +27,7 @@ This repository documents the strategy configuration, backtesting results, and d
 - **ATR stop multiplier:** 1.5
 - **Risk per trade setting:** 1%
 - **Maximum volume setting:** 0.1 lots
+<img width="805" height="327" alt="wtwo" src="https://github.com/user-attachments/assets/23eb0ace-bf65-4ec1-91d4-b1d5f5463a98" />
 
 The bot is designed to analyze market conditions across multiple timeframes and manage trades using volatility-based stop-loss parameters.
 
@@ -55,6 +58,7 @@ The following results were recorded in the supplied cTrader backtesting report.
 | Short-trade profit factor | 1.41 |
 | Total commissions | -$856.22 |
 | Total swaps | -$337.69 |
+<img width="775" height="428" alt="wthree" src="https://github.com/user-attachments/assets/8178accc-8045-41dc-83a3-99c278348862" />
 
 *These are historical backtesting results, not live trading results. The maximum drawdown estimate derived from the report's equity data is approximately 28.05%; it has not been independently verified.*
 
